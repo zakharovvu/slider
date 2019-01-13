@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
-https://zakharovvu.github.io/slider/
-https://github.com/zakharovvu/slider/
+1.[Рабочая версия](https://zakharovvu.github.io/slider/)
+2. [Папка репозитория](https://github.com/zakharovvu/slider/)
