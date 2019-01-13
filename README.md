@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+https://zakharovvu.github.io/slider/
+https://github.com/zakharovvu/slider/edit/gh-pages/README.md?allow_unchanged=1
 
 You can use the [editor on GitHub](https://github.com/zakharovvu/slider/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
